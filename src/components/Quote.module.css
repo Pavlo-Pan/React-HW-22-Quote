@@ -1,0 +1,26 @@
+.quote {
+  font-size: 1.5em;
+  margin: 20px;
+}
+
+.author {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  text-align: right;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+.error{
+  color: red;
+}
